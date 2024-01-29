@@ -19,3 +19,5 @@ export default createSlice({
       }
   },
 })
+
+// export const {increment , decrement, reset} = createSlice.actions
